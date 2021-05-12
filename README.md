@@ -25,8 +25,8 @@ In the file, there are four string variables:
 Change these variables above to absolute paths of files. For example,
 I can put these (macOS):
 ```python
-htmlFile = "/Users/byranhuang/Documents/GitHub/ArtStudio23/index.html"
-cssFile  = "/Users/byranhuang/Documents/GitHub/ArtStudio23/style.css"
-jsFile = "/Users/byranhuang/Documents/GitHub/ArtStudio23/scripts.js"
-auxFile = "/Users/byranhuang/Documents/GitHub/ArtStudio23/about.html"
+htmlFile = "~/Documents/index.html"
+cssFile  = "~/Documents/style.css"
+jsFile = "~/Documents/scripts.js"
+auxFile = "~/Documents/about.html"
 ```
